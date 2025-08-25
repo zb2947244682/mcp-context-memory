@@ -56,7 +56,7 @@
     "command": "npx",
     "args": [
       "-y",
-      "@zb2947244682/mcp-context-memory"
+      "@zb2947244682/mcp-context-memory@latest"
     ]
   }
 }
