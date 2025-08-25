@@ -882,4 +882,4 @@ const transport = new StdioServerTransport();
 // 将 MCP 服务器连接到传输层
 await server.connect(transport);
 // 连接成功后打印日志，表示服务器已在运行
-console.log("MCP上下文记忆服务已启动");
+//console.log("MCP上下文记忆服务已启动");
